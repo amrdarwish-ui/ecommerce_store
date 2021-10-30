@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Checkbox" transform="translate(-145 -135)">
+    <circle id="Dot_2" data-name="Dot 2" cx="12" cy="12" r="12" transform="translate(145 135)" fill="#00c569"/>
+    <g id="Checkmark" transform="translate(150.991 141.952)">
+      <path id="Path_71" data-name="Path 71" d="M.4,4.559a1.069,1.069,0,0,1,1.54.132L4.273,7.067,11.182.335a1.065,1.065,0,0,1,1.54.088,1.063,1.063,0,0,1-.088,1.54L4.977,9.444a.9.9,0,0,1-.4.22H4.537a.162.162,0,0,1-.132.044h-.4c-.044,0-.132-.044-.176-.044h0a2.066,2.066,0,0,1-.4-.264L.313,6.143A1.076,1.076,0,0,1,.4,4.559Z" transform="translate(0 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

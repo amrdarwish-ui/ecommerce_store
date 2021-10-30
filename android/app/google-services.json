@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982053064464",
+    "project_id": "ecommerce-store-2fbf8",
+    "storage_bucket": "ecommerce-store-2fbf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982053064464:android:fc18d137d946a12729df95",
+        "android_client_info": {
+          "package_name": "com.dach.ecommerce_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982053064464-5ua56jok25m8ceuedbtk3cv8dntj83im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCCneaJOtu6wNosceIjrLNuBrXXASUNRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982053064464-5ua56jok25m8ceuedbtk3cv8dntj83im.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
